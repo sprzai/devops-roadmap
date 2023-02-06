@@ -1,7 +1,7 @@
 # Recommended RoadMap:
 
-1. Pre-requisite
-2. Networking
+1. Que es DevOps?
+2. Redes
 3. Linux
 4. Shell Scripting
 5. Git
@@ -17,3 +17,12 @@
 15. Python
 16. Ansible
 17. Prometheus
+
+
+1. Que es DevOps?
+    https://es.wikipedia.org/wiki/DevOps
+    
+    
+2. Redes
+  CURSO de REDES 2020 para PRINCIPIANTES # 1
+    https://www.youtube.com/watch?v=k2e6eWyn0fE
