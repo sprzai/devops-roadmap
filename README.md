@@ -30,4 +30,4 @@
     
 15. Python:
 
-      Curso resumen y completo de python: sprzai/devops-roadmap/tree/main/python
+      Curso resumen y completo de python: #sprzai/devops-roadmap/tree/main/python
