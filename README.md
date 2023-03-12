@@ -1,7 +1,7 @@
 # Recommended RoadMap:
 
 1. What is DevOps?
-2. Redes
+2. Networks
 3. Linux
 4. Shell Scripting
 5. Git
@@ -23,14 +23,13 @@
     https://es.wikipedia.org/wiki/DevOps
     
     
-2. Redes
+2. Networks:
   CURSO de REDES 2020 para PRINCIPIANTES # 1
     https://www.youtube.com/watch?v=k2e6eWyn0fE
     
     
 15. Python:
 
-      Curso resumen y completo de python: https://github.com/sprzai/devops-roadmap/blob/main/python/curso_completo_python3.py
-      
-      [I'm a relative reference to a repository file](/python/curso_completo_python3.py)
-      [I'm a relative reference to a repository file](python/curso_completo_python3.py)
+      [Python 3 summary and complete course](/python/curso_completo_python3.py)
+
+16. Ansible
