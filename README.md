@@ -1,6 +1,6 @@
 # Recommended RoadMap:
 
-1. Que es DevOps?
+1. What is DevOps?
 2. Redes
 3. Linux
 4. Shell Scripting
@@ -19,10 +19,15 @@
 17. Prometheus
 
 
-1. Que es DevOps?
+1. What is DevOps?
     https://es.wikipedia.org/wiki/DevOps
     
     
 2. Redes
   CURSO de REDES 2020 para PRINCIPIANTES # 1
     https://www.youtube.com/watch?v=k2e6eWyn0fE
+    
+    
+15. Python:
+
+      cursopython.py
