@@ -31,3 +31,6 @@
 15. Python:
 
       Curso resumen y completo de python: https://github.com/sprzai/devops-roadmap/blob/main/python/curso_completo_python3.py
+      
+      [I'm a relative reference to a repository file](/python/curso_completo_python3.py)
+      [I'm a relative reference to a repository file](python/curso_completo_python3.py)
