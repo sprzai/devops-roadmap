@@ -14,7 +14,7 @@
 12. AWS / Azure / GCP
 13. Kubernetes
 14. Terraform
-15. Python
+15. [Python](#python)
 16. Ansible
 17. Prometheus
 
@@ -28,7 +28,7 @@
     https://www.youtube.com/watch?v=k2e6eWyn0fE
     
     
-15. Python:
+## Python:
 
       [Python 3 summary and complete course](/python/curso_completo_python3.py)
 
