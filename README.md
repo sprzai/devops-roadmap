@@ -3,8 +3,8 @@
 1. [What is DevOps?](#what is devops?)
 2. [Networks](#networks)
 3. [Linux](#linux)
-4. Shell Scripting
-5. Git
+4. [Scripting](#Scripting)
+5. [Git](#Git)
 6. Maven
 7. Tomcat
 8. Sonarqube
@@ -29,10 +29,15 @@
 
 ## Linux:
 
+## Scripting:
+      [Shell Scripting with python](/scripting/)
+
+## Git:
+      [Git Cheat sheet](/Git/)
 
 ## Terraform:
 
-      [Implementation of architecture as code in AWS with T](/terraform/)
+      [Implementation of architecture as code in AWS with Terraform](/terraform/)
     
 ## Python:
 
