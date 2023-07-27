@@ -3,23 +3,25 @@
 1. [What is DevOps?](#what is devops?)
 2. [Networks](#networks)
 3. [Linux](#linux)
-4. [Scripting](#Scripting)
-5. [Git](#Git)
-6. Maven
-7. Tomcat
-8. Sonarqube
-9. Nexus
-10. Docker
-11. Jenkins
-12. AWS / Azure / GCP
-13. Kubernetes
-14. [Terraform](#terraform)
-15. [Python](#python)
-16. [Ansible](#ansible)
-17. Prometheus
+4. [Scripting](#scripting)
+5. [Git](#git)
+6. [Docker](#docker)
+7. [Jenkins](#jenkins)
+8. [AWS](#aws)
+9. [GCP](#gcp)
+10. Kubernetes
+11. [Terraform](#terraform)
+12. [Python](#python)
+13. [Ansible](#ansible)
+14. [Prometheus](#prometheus)
 
 
 ## What is DevOps?
+      The word "DevOps" is a mashup of "development’ and "operations" but it represents a set of ideas and practices much larger than those two terms alone, or together. DevOps includes security, collaborative ways of working, data analytics, and many other things.
+
+      DevOps describes approaches to speeding up the processes by which an idea (like a new software feature, a request for enhancement, or a bug fix) goes from development to deployment in a production environment where it can provide value to the user. These approaches require that development teams and operations teams communicate frequently and approach their work with empathy for their teammates. Scalability and flexible provisioning are also necessary. With DevOps, those that need power the most, get it—through self service and automation. Developers, usually coding in a standard development environment, work closely with IT operations to speed software builds, tests, and releases—without sacrificing reliability.
+
+    View:  
     https://es.wikipedia.org/wiki/DevOps
     
     

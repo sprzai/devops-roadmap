@@ -41,3 +41,16 @@
 
 # Crea un despliegue:
     $ aws deploy create-deployment --application-name my-application --deployment-config-name CodeDeployDefault.OneAtATime --deployment-group-name my-deployment-group --s3-location bucket=my-application-bucket,bundleType=zip,key=my-application.zip
+
+
+
+# Por consola web
+    - Primero creamos la aplicacion, una vez creada hacemos click en el boton [Crear implementacion]
+    - En S3 creamos un bucket nuevo, sobre code-deploy
+        subimos los ficheros que necesitamos para la aplicacion (deploy-zip)
+        lo demas por defecto y creamos la implementacion.
+            aqui despliega los archivos de s3 en la instancia de s2
+            se valida yendo a s2, cooiamos la ip en el navegador y vemos el index del html que hemos publicado.
+
+
+    
